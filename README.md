@@ -67,11 +67,11 @@ please modify the  path in the configuration files
 **step0:**
 train DAF, the results in `experiments/snapshots`
 ```
-python train.py --cfg ./configs/configs/dg.yml 
+python train.py --cfg ./configs/configs_s2c/dg.yml 
 ```
 test DAF, find best model
 ```
-python test.py --cfg ./configs/configs/dg.yml
+python test.py --cfg ./configs/configs_s2c/dg.yml
 ``` 
 **step1:**
 training with ISL
