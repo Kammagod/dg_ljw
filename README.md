@@ -1,4 +1,3 @@
-# Depth Guidance and Intra-Domain Adaptation for Semantic Segmentation
 
 <img src = "image/liuchen1.png" width="800px">     
 <img src = "image/liuchen2.png" width="800px">
